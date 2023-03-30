@@ -16,7 +16,7 @@ public class LAB2 {
             System.out.println("RuntimeException");
         }
         catch(Exception e){
-            System.out.println("Exception");
+            System.out.println("Exception"); 
         }
     }
 }

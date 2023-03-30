@@ -17,6 +17,7 @@ public class LAB7 {
     }
 
     public static void doThat() throws Exception {
-        throw new MyException("Hello My Exception");
+        throw new MyException("Hello Exceptionnnnnnnnnnnnnnnnnnnnnnn");
     }
 }
+ 

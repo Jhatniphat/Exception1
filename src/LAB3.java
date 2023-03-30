@@ -10,8 +10,8 @@ public class LAB3 {
         }
         catch (Exception e) {
         }
-        finally {
+        finally { 
             System.out.println("Statement 4");
         }
     }
-}
+} 

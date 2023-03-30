@@ -20,4 +20,4 @@ public class LAB5 {
         System.out.println(1/0);
 
     }
-}
+} 

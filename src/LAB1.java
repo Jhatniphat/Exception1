@@ -10,7 +10,7 @@ public class LAB1 {
 //        String s = "abc";
 //        System.out.println(s.charAt(3));
 
-//        Object o = new Object();
+//        Object o = new Object(); 
 //        String o = (String)o;
 
 //        Object o = null;

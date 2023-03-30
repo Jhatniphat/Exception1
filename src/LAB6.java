@@ -15,7 +15,7 @@ public class LAB6 {
                 System.out.println(st[i].getMethodName());
                 System.out.println(st[i].getFileName());
                 System.out.println(st[i].getLineNumber());
-            }
+            } 
         }
     }
 }
